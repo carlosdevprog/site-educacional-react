@@ -50,7 +50,8 @@
 }
 
 .awrapper {
-    background-image: url("images/awrapper_1.png");
+    background-color: bisque;
+    /* background-image: url("images/awrapper_1.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

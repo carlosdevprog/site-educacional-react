@@ -1,5 +1,5 @@
 .back {
-    background-image: url("images/back_1.png");
+    background-image: url("./public/images/back_1.png");
     background-size: cover;
     background-attachment: fixed;
     position: absolute;
