@@ -1,0 +1,132 @@
+.newletter {
+    background-color: #1eb2a6;
+    margin-top: 5rem;
+    padding: 5rem 0;
+    color: #fff;
+}
+
+.newletter .right,
+.newletter .left {
+    padding-right: 5rem;
+}
+
+.newletter h1 {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+
+.newletter .right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.newletter input {
+    width: 100%;
+    padding: 2rem;
+    border: none;
+    outline: none;
+    height: 3rem;
+}
+
+.newletter i {
+    padding: 1.2rem;
+    color: #1eb2a6;
+    background-color: #fff;
+}
+
+footer {
+    background-color: #eeeeee;
+}
+
+footer .container {
+    display: grid;
+    grid-template-columns: 3fr 2fr 2fr 4fr 3fr;
+    gap: 3rem;
+}
+
+@media screen and (max-width: 768px) {
+    footer .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+footer .logo span {
+    color: #1eb2a6;
+    font-size: 1.4rem;
+}
+
+footer .logo p {
+    color: #808080;
+    margin: 3rem 0 1.5rem 0;
+}
+
+footer .logo .icon {
+    background-color: #1eb2a6;
+    color: #fff;
+    margin-right: 1rem;
+}
+
+footer h3 {
+    margin-bottom: 4rem;
+    font-weight: 500;
+}
+
+footer ul li {
+    margin-bottom: 2rem;
+}
+
+footer .link li::before {
+    content: "\2192";
+    color: #1eb2a6;
+    margin-right: 0.5rem;
+}
+
+footer .items {
+    margin-bottom: 3rem;
+}
+
+footer .items img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+    object-fit: cover;
+}
+
+footer .items span,
+footer .items i {
+    font-size: 1.2rem;
+    color: #1eb2a6;
+    margin-right: 0.5rem;
+    text-transform: capitalize;
+}
+
+footer h4 {
+    font-weight: 400;
+    margin-top: 0.5rem;
+}
+
+footer .last ul li {
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+footer .last i {
+    width: 6rem;
+    font-size: 2rem;
+    color: #1eb2a6;
+}
+
+.legal {
+    text-align: center;
+    padding: 5rem 0;
+    color: #808080;
+    background-color: #e9e9e9;
+}
+
+.legal i{
+    color: #1eb2a6;
+}

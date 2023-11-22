@@ -1,0 +1,91 @@
+.head {
+    padding: 2rem 0;
+    color: #fff;
+}
+
+.logo h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+
+.head .icon {
+    margin-left: 1rem;
+}
+
+/* -----------------Header-------------------- */
+
+header {
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 3rem;
+    position: relative;
+}
+
+header ul {
+    padding: 3rem 2rem;
+}
+
+header li {
+    margin-right: 4rem;
+}
+
+header ul li a {
+    color: #fff;
+    font-weight: 500;
+    transition: all 0.4s ease-in-out;
+}
+
+header ul li a:hover {
+    color: #1eb2c6;
+}
+
+.start {
+    background-color: #1eb2c6;
+    padding: 3rem 7rem;
+    color: #fff;
+    clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.toggle {
+    display: none;
+
+}
+
+@media screen and (max-width: 768px) {
+    .start {
+        clip-path: none;
+    }
+
+    header {
+        margin: 0;
+        background-color: #1eb2c6;
+        position: relative;
+    }
+
+    header ul.flexSB {
+        display: none;
+    }
+
+    header ul li{
+        margin-bottom: 3rem;
+    }
+
+    .toggle {
+        display: block;
+        background: none;
+        color: #fff;
+        font-size: 3rem;
+        position: absolute;
+        right: 50px;
+        top: -20px;
+        border: none;
+
+    }
+
+    .mobile-nav {
+        position: absolute;
+        top: 7vh;
+        left: 0;
+        width: 100%;
+        background-color: #1eb2c6;
+    }
+}
