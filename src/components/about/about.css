@@ -52,7 +52,8 @@
 .awrapper {
     /* background-color: bisque; */
     /* background-image: url("images/awrapper_1.png"); */
-    background-image: url("images/awrapper_test.svg");
+    /* background-image: url("images/awrapper_test.svg"); */
+    background-image: url("https://media.discordapp.net/attachments/971165654352793643/1176954718522712225/awrapper_11.png?ex=6570bf7f&is=655e4a7f&hm=897a4c0b4b905e1f0661d806e05a566aff216754ce9bbc36ed47013ba50dc3d2&=&format=webp&width=890&height=593");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
