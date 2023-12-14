@@ -1,31 +1,30 @@
 # Site Educacional 
 
-
-# Sobre o projeto
+## 🚀 Sobre o projeto
 
 https://site-educacional-react.vercel.app/
 
-O Site Educacional é uma aplicação front-end e mobile construída através de um tutorial do **GorkCoder** no youtube, no endereço (https://www.youtube.com/watch?v=KkQATIXBY5w&t=1s).
-
-A aplicação consiste na simulação de landing page de uma instituição de ensino, que oferece proncipalmente cursos de tecnologia. No site, pode-se navegar entre as diversas sessões de: Home, Cursos, Sobre, Equipe, Preços, Blog e Contato. 
+A aplicação consiste na exibição de um site institucional de ensino, que oferece principalmente cursos de tecnologia. No site, pode-se navegar entre as diversas sessões de: Home, Cursos, Sobre, Equipe, Preços, Blog e Contato. 
 
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_1.jpg?raw=true)
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_2.jpg?raw=true)
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_3.jpg?raw=truehttps://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_3.jpg?raw=true)
 
-## 📦 Tecnologias usadas:
+## 📦 Tecnologias usadas
 
-### Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
+**Front-end:**
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## Implantação em produção
-- Front-end web: Vercel
+## ⚙️ Implantação em produção
+* ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🛠️ Como executar o projeto
 
-```## Front end web
-
+```
 # clonar repositório
 git clone https://github.com/carlosdevprog/site-educacional-react.git
 
@@ -40,8 +39,12 @@ npm run dev
 
 Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/site-educacional-react/blob/master/LICENSE)
 
-# Autor
+## 👷 Autor
 
-Carlos Eduardo Teixeira de Lima
+* **Carlos Eduardo Teixeira de Lima** - *Reprodução*
 
-https://www.linkedin.com/in/carlos-etl
+## 💡 Agradecimento
+
+* Agradeço ao **GorkCoder** pela excelente aula no youtube - https://www.youtube.com/watch?v=KkQATIXBY5w&t=1s
+* Para suporte, mande um email para carloseduardolima.dev@gmail.com
+* Meu linkedin - https://www.linkedin.com/in/carlos-etl
