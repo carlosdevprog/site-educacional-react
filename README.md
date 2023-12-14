@@ -25,11 +25,11 @@ A aplicação consiste na simulação de landing page de uma instituição de en
 ## 🛠️ Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Node
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/carlosdevprog-wmazoni
 
 # entrar na pasta do projeto back end
 cd backend
@@ -38,8 +38,7 @@ cd backend
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
-
+Pré-requisitos: npm
 ```bash
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
