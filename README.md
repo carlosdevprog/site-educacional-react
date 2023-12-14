@@ -1,5 +1,5 @@
 # Site Educacional 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/site-educacional-react/blob/master/LICENSE)
+
 
 # Sobre o projeto
 
@@ -33,8 +33,7 @@ git clone https://github.com/devsuperior/sds1-wmazoni
 # entrar na pasta do projeto back end
 cd backend
 
-# executar o projeto
-./mvnw spring-boot:run
+
 ```
 
 ## Front end web
@@ -53,6 +52,10 @@ npm install
 # executar o projeto
 npm run dev
 ```
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/site-educacional-react/blob/master/LICENSE)
 
 # Autor
 
