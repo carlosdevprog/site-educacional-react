@@ -13,15 +13,16 @@ A aplicação consiste na simulação de landing page de uma instituição de en
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_2.jpg?raw=true)
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_3.jpg?raw=truehttps://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/site-educacional-react/Screenshot_3.jpg?raw=true)
 
-# Tecnologias utilizadas
-## Front end
+## 📦 Tecnologias usadas:
+
+### Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
 
 ## Implantação em produção
-- Front end web: Vercel
+- Front-end web: Vercel
 
-# Como executar o projeto
+## 🛠️ Como executar o projeto
 
 ## Back end
 Pré-requisitos: Java 11
