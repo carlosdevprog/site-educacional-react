@@ -24,27 +24,10 @@ A aplicação consiste na simulação de landing page de uma instituição de en
 
 ## 🛠️ Como executar o projeto
 
-## Back end
-Pré-requisitos: Node
+```## Front end web
 
-```bash
 # clonar repositório
 git clone https://github.com/carlosdevprog/site-educacional-react.git
-
-# entrar na pasta do projeto back end
-cd backend
-
-
-```
-
-## Front end web
-Pré-requisitos: npm
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
 
 # instalar dependências
 npm install
