@@ -29,7 +29,7 @@ Pré-requisitos: Node
 
 ```bash
 # clonar repositório
-git clone https://github.com/carlosdevprog-wmazoni
+git clone https://github.com/carlosdevprog/site-educacional-react.git
 
 # entrar na pasta do projeto back end
 cd backend
